@@ -17,9 +17,8 @@ Everybody loves listening to  music and creating your very own mp3 music player 
 
 
 ## Tech Stacks-
-TKINTER
 
-<img alt="HTML5" src="https://img.shields.io/badge/python-grey?&style=for-the-badge&logo=python&logoColor=blue" >
+<img alt="HTML5" src="https://img.shields.io/badge/python-grey?&style=for-the-badge&logo=python&logoColor=blue" >![Tkinter](https://img.shields.io/badge/Tkinter-orange?&style=for-the-badge&logo=appveyor&logoColor=blue)
 
 
 ## Working-
